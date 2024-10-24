@@ -355,8 +355,10 @@
 "Assets/Apartment_Door/Scripts/DoorController.cs"
 "Assets/Apartment_Door/Scripts/KeyController.cs"
 "Assets/Apartment_Door/Scripts/PlayerMovement.cs"
+"Assets/MainMenu.cs"
 "Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs"
 "Assets/PickUpController.cs"
+"Assets/RunemarkStudio/DarkFantasyKit [Free]/Readme/Parts/Readme.cs"
 "Assets/test.cs"
 "Assets/UI.cs"
 -langversion:9.0

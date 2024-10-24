@@ -61,12 +61,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Apartment_Door\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\RunemarkStudio\DarkFantasyKit [Free]\Readme\Parts\Readme.cs" />
     <Compile Include="Assets\Apartment_Door\Scripts\KeyController.cs" />
     <Compile Include="Assets\PickUpController.cs" />
     <Compile Include="Assets\test.cs" />
     <Compile Include="Assets\Apartment_Door\Scripts\DoorController.cs" />
     <Compile Include="Assets\UI.cs" />
     <Compile Include="Assets\ModularFirstPersonController\FirstPersonController\FirstPersonController.cs" />
+    <Compile Include="Assets\MainMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
