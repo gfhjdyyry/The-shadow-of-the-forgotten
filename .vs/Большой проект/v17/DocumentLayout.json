@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54360B2A-02EC-0E75-FC89-AAFA470E5F84}|Assembly-CSharp.csproj|c:\\users\\imand\\\u0431\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\assets\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54360B2A-02EC-0E75-FC89-AAFA470E5F84}|Assembly-CSharp.csproj|c:\\users\\imand\\\u0431\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\assets\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54360B2A-02EC-0E75-FC89-AAFA470E5F84}|Assembly-CSharp.csproj|solutionrelative:assets\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54360B2A-02EC-0E75-FC89-AAFA470E5F84}|Assembly-CSharp.csproj|c:\\users\\imand\\\u0431\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54360B2A-02EC-0E75-FC89-AAFA470E5F84}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54360B2A-02EC-0E75-FC89-AAFA470E5F84}|Assembly-CSharp.csproj|C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\assets\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54360B2A-02EC-0E75-FC89-AAFA470E5F84}|Assembly-CSharp.csproj|solutionrelative:assets\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -65,19 +73,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\Settings.cs",
+              "RelativeDocumentMoniker": "Assets\\Settings.cs",
+              "ToolTip": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\Settings.cs*",
+              "RelativeToolTip": "Assets\\Settings.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:16:28.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:55:11.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UI.cs",
               "DocumentMoniker": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\UI.cs",
               "RelativeDocumentMoniker": "Assets\\UI.cs",
               "ToolTip": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\UI.cs",
               "RelativeToolTip": "Assets\\UI.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAAlAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAABQwBQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:27:51.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T16:27:51.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "InventoryController.cs",
               "DocumentMoniker": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\FirstPersonController\\Scripts\\Player\\InventoryController.cs",
               "RelativeDocumentMoniker": "Assets\\FirstPersonController\\Scripts\\Player\\InventoryController.cs",
@@ -88,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\FirstPersonController\\Scripts\\Inventory\\Item.cs",
               "RelativeDocumentMoniker": "Assets\\FirstPersonController\\Scripts\\Inventory\\Item.cs",
@@ -99,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Inventory.cs",
               "DocumentMoniker": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\Inventory.cs",
               "RelativeDocumentMoniker": "Assets\\Inventory.cs",
@@ -110,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\Item.cs",
               "RelativeDocumentMoniker": "Assets\\Item.cs",
@@ -121,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CustomCharacterController.cs",
               "DocumentMoniker": "C:\\Users\\imand\\Downloads\\CustomCharacterController.cs",
               "RelativeDocumentMoniker": "..\\Downloads\\CustomCharacterController.cs",
@@ -133,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "PickUpController.cs",
               "DocumentMoniker": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\PickUpController.cs",
               "RelativeDocumentMoniker": "Assets\\PickUpController.cs",
@@ -145,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "PickUpController.cs",
               "DocumentMoniker": "C:\\Users\\imand\\Downloads\\PickUpController.cs",
               "RelativeDocumentMoniker": "..\\Downloads\\PickUpController.cs",
@@ -157,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "InteractionSystem.cs",
               "DocumentMoniker": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\InteractionSystem.cs",
               "RelativeDocumentMoniker": "Assets\\InteractionSystem.cs",
@@ -168,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "FirstPersonController.cs",
               "DocumentMoniker": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\FirstPersonController\\FirstPersonController.cs",
               "RelativeDocumentMoniker": "Assets\\FirstPersonController\\FirstPersonController.cs",
@@ -180,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "DoorController.cs",
               "DocumentMoniker": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\Apartment_Door\\Scripts\\DoorController.cs",
               "RelativeDocumentMoniker": "Assets\\Apartment_Door\\Scripts\\DoorController.cs",
@@ -192,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "FirstPersonController.cs",
               "DocumentMoniker": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\FirstPersonController.cs",
               "RelativeDocumentMoniker": "Assets\\FirstPersonController.cs",
@@ -204,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "PersonController.cs",
               "DocumentMoniker": "C:\\Users\\imand\\\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\Assets\\PersonController.cs",
               "RelativeDocumentMoniker": "Assets\\PersonController.cs",

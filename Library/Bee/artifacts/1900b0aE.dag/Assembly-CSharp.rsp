@@ -359,6 +359,7 @@
 "Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs"
 "Assets/PickUpController.cs"
 "Assets/RunemarkStudio/DarkFantasyKit [Free]/Readme/Parts/Readme.cs"
+"Assets/Settings.cs"
 "Assets/test.cs"
 "Assets/UI.cs"
 -langversion:9.0
